@@ -1,0 +1,17 @@
+E:\code stuff\DotNetAssignment#4\bin\Debug\netcoreapp3.1\DotNetAssignment#4.exe
+E:\code stuff\DotNetAssignment#4\bin\Debug\netcoreapp3.1\DotNetAssignment#4.deps.json
+E:\code stuff\DotNetAssignment#4\bin\Debug\netcoreapp3.1\DotNetAssignment#4.runtimeconfig.json
+E:\code stuff\DotNetAssignment#4\bin\Debug\netcoreapp3.1\DotNetAssignment#4.runtimeconfig.dev.json
+E:\code stuff\DotNetAssignment#4\bin\Debug\netcoreapp3.1\DotNetAssignment#4.dll
+E:\code stuff\DotNetAssignment#4\bin\Debug\netcoreapp3.1\DotNetAssignment#4.pdb
+E:\code stuff\DotNetAssignment#4\obj\Debug\netcoreapp3.1\DotNetAssignment#4.csprojAssemblyReference.cache
+E:\code stuff\DotNetAssignment#4\obj\Debug\netcoreapp3.1\DotNetAssignment#4.AssemblyInfoInputs.cache
+E:\code stuff\DotNetAssignment#4\obj\Debug\netcoreapp3.1\DotNetAssignment#4.AssemblyInfo.cs
+E:\code stuff\DotNetAssignment#4\obj\Debug\netcoreapp3.1\DotNetAssignment#4.csproj.CoreCompileInputs.cache
+E:\code stuff\DotNetAssignment#4\obj\Debug\netcoreapp3.1\DotNetAssignment#4.dll
+E:\code stuff\DotNetAssignment#4\obj\Debug\netcoreapp3.1\DotNetAssignment#4.pdb
+E:\code stuff\DotNetAssignment#4\obj\Debug\netcoreapp3.1\DotNetAssignment#4.genruntimeconfig.cache
+E:\code stuff\DotNetAssignment#4\bin\Debug\netcoreapp3.1\NLog.dll
+E:\code stuff\DotNetAssignment#4\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\code stuff\DotNetAssignment#4\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+E:\code stuff\DotNetAssignment#4\obj\Debug\netcoreapp3.1\DotNetAssignment#4.csproj.CopyComplete

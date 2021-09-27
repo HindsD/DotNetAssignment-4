@@ -1,0 +1,34 @@
+2021-09-26 22:16:50.5617|INFO|DotNetAssignment_4.Program|Program started
+2021-09-26 22:17:11.1435|INFO|DotNetAssignment_4.Program|User choice: 1
+2021-09-26 22:17:25.9417|ERROR|DotNetAssignment_4.Program|Unable to add the movieDanny's Fight!
+2021-09-26 22:17:25.9417|INFO|DotNetAssignment_4.Program|Program ended
+2021-09-26 22:19:38.3719|INFO|DotNetAssignment_4.Program|Program started
+2021-09-26 22:19:39.8642|INFO|DotNetAssignment_4.Program|User choice: 1
+2021-09-26 22:19:47.8282|INFO|DotNetAssignment_4.Program|Program ended
+2021-09-26 22:21:03.1917|INFO|DotNetAssignment_4.Program|Program started
+2021-09-26 22:21:04.7939|INFO|DotNetAssignment_4.Program|User choice: 1
+2021-09-26 22:21:16.3329|INFO|DotNetAssignment_4.Program|Program ended
+2021-09-26 22:21:39.3967|INFO|DotNetAssignment_4.Program|Program started
+2021-09-26 22:21:40.6872|INFO|DotNetAssignment_4.Program|User choice: 2
+2021-09-26 22:21:44.9886|INFO|DotNetAssignment_4.Program|Program ended
+2021-09-26 22:30:40.4018|INFO|DotNetAssignment_4.Program|Program started
+2021-09-26 22:30:42.1397|INFO|DotNetAssignment_4.Program|User choice: 2
+2021-09-26 22:30:55.8593|INFO|DotNetAssignment_4.Program|User choice:  
+2021-09-26 22:30:55.8593|INFO|DotNetAssignment_4.Program|Program ended
+2021-09-26 22:31:17.1534|INFO|DotNetAssignment_4.Program|Program started
+2021-09-26 22:31:21.5665|INFO|DotNetAssignment_4.Program|User choice: 2
+2021-09-26 22:31:28.8650|INFO|DotNetAssignment_4.Program|User choice:  
+2021-09-26 22:31:28.8674|INFO|DotNetAssignment_4.Program|Program ended
+2021-09-26 22:31:45.6871|INFO|DotNetAssignment_4.Program|Program started
+2021-09-26 22:31:49.0701|INFO|DotNetAssignment_4.Program|User choice: 2
+2021-09-26 22:31:57.1510|INFO|DotNetAssignment_4.Program|User choice: 1
+2021-09-26 22:32:14.5411|INFO|DotNetAssignment_4.Program|Program started
+2021-09-26 22:32:15.3428|INFO|DotNetAssignment_4.Program|User choice: 1
+2021-09-26 22:33:11.9831|INFO|DotNetAssignment_4.Program|User choice: 2
+2021-09-26 22:33:18.2021|INFO|DotNetAssignment_4.Program|User choice: 1
+2021-09-26 22:33:55.0598|INFO|DotNetAssignment_4.Program|Program started
+2021-09-26 22:33:57.6937|INFO|DotNetAssignment_4.Program|User choice: 2
+2021-09-26 22:34:05.3575|INFO|DotNetAssignment_4.Program|User choice: 1
+2021-09-26 22:34:40.9383|INFO|DotNetAssignment_4.Program|User choice: 2
+2021-09-26 22:34:48.6098|INFO|DotNetAssignment_4.Program|User choice:  
+2021-09-26 22:34:48.6098|INFO|DotNetAssignment_4.Program|Program ended
